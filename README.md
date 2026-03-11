@@ -1,5 +1,3 @@
-# Assignment-5
-
 Password Policy and Strength Validator
 This program evaluates a password's security level based on predefined organizational policies. It categorizes passwords into four strength levels and determines if they are acceptable for use.
 📋 Features
